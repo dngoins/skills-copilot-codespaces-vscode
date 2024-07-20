@@ -1,4 +1,4 @@
-function calculgitateNumbers(var1, var2) {
+function calculateNumbers(var1, var2) {
   return var1 + var2;
 }  // End of calcuateNumbers
 
